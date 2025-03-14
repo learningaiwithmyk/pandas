@@ -1,0 +1,5 @@
+students = {
+    "Name": ["Alice", "Bob", "Charlie", "David", "Emma", "Frank", "Grace", "Hannah", "Ian", "Jack"],
+    "Class": ["Grade 10", "Grade 9", "Grade 11", "Grade 8", "Grade 12", "Grade 10", "Grade 9", "Grade 11", "Grade 8", "Grade 12"]
+}
+

@@ -1,0 +1,27 @@
+[
+  {
+    "location": "New York",
+    "rooms": 3,
+    "cost": 500000
+  },
+  {
+    "location": "San Francisco",
+    "rooms": 4,
+    "cost": 800000
+  },
+  {
+    "location": "Los Angeles",
+    "rooms": 2,
+    "cost": 400000
+  },
+  {
+    "location": "Chicago",
+    "rooms": 5,
+    "cost": 350000
+  },
+  {
+    "location": "Austin",
+    "rooms": 3,
+    "cost": 450000
+  }
+]
