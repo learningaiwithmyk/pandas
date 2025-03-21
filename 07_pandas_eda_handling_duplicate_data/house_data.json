@@ -1,0 +1,22 @@
+[
+  {"location": "New York", "rooms": 3, "cost": 500000, "car_parking": "Available"},
+  {"location": "San Francisco", "rooms": 4, "cost": 800000, "car_parking": "Available"},
+  {"location": "Los Angeles", "rooms": 2, "cost": 400000, "car_parking": "Available"},
+  {"location": "Chicago", "rooms": 5, "cost": 350000, "car_parking": "Available"},
+  {"location": "Austin", "rooms": 3, "cost": 450000, "car_parking": "Available"},
+  {"location": "Miami", "rooms": 2, "cost": 380000, "car_parking": "Available"},
+  {"location": "Seattle", "rooms": 4, "cost": 700000, "car_parking": "Available"},
+  {"location": "Boston", "rooms": 3, "cost": 600000, "car_parking": "Available"},
+  {"location": "Denver", "rooms": 5, "cost": 500000, "car_parking": "Available"},
+  {"location": "Houston", "rooms": 3, "cost": 300000, "car_parking": "Available"},
+  {"location": "Phoenix", "rooms": 4, "cost": 320000, "car_parking": "Not Available"},
+  {"location": "Las Vegas", "rooms": 2, "cost": 250000, "car_parking": "Not Available"},
+  {"location": "Dallas", "rooms": 5, "cost": 400000, "car_parking": "Not Available"},
+  {"location": "San Diego", "rooms": 3, "cost": 550000, "car_parking": "Not Available"},
+  {"location": "Philadelphia", "rooms": 4, "cost": 450000, "car_parking": "Not Available"},
+  {"location": "New York", "rooms": 3, "cost": 500000, "car_parking": "Available"},
+  {"location": "San Francisco", "rooms": 4, "cost": 800000, "car_parking": "Available"},
+  {"location": "Chicago", "rooms": 5, "cost": 350000, "car_parking": "Available"},
+  {"location": "Portland", "rooms": 3, "cost": 470000, "car_parking": "Not Available"},
+  {"location": "Atlanta", "rooms": 4, "cost": 430000, "car_parking": "Not Available"}
+]
